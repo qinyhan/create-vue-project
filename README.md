@@ -1,7 +1,7 @@
 # create-vue-project
 创建VUE脚手架命令步骤
 
-#VUE使用命令  
+# VUE使用命令  
 
 ## 1. 切换源为 taobao 源
 $ npm set registry https://registry.npm.taobao.org/
