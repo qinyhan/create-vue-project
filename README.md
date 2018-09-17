@@ -13,8 +13,8 @@ $ npm install --global vue-cli
 $ npm install --global apicloud-cli
 
 ## 4. 创建一个基于 vue 模板的项目
-$ vue init vueProject/vue_maset my-project
-          放在哪个文件夹下面/项目名称
+$ vue init webpack my-project
+                   项目名称
           
 ## 5. 安装依赖包
 
