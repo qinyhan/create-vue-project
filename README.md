@@ -25,3 +25,36 @@ $ npm run start
 ## 6. 打包构建
 
 $ npm run package
+
+
+# yarn使用命令
+
+## 1.安装yarn
+$ npm install -g yarn 或 install yarn
+
+## 2.查看yarn版本
+$ yarn version
+
+## 3.初始化一个新项目
+$ yarn init
+
+## 4.添加依赖包
+
+$ yarn add [package]
+$ yarn add [package]@[version]
+$ yarn add [package]@[tag]
+
+## 5.升级依赖包
+$ yarn upgrade [package]
+$ yarn upgrade [package]@[version]
+$ yarn upgrade [package]@[tag]
+
+## 6.移除依赖包
+
+$ yarn remove [package]
+
+## 7.全局安装vue脚手架
+$ npm install -g vue-cli
+
+## 8.创建一个基于 webpack 模板的新项目
+$ vue init webpack Vue-youzan
