@@ -58,3 +58,11 @@ $ npm install -g vue-cli
 
 ## 8.创建一个基于 webpack 模板的新项目
 $ vue init webpack Vue-youzan
+
+
+# VUE + ApiCloud使用命令  
+##安装apicloud-cli  
+$ npm install apicloud -g
+
+
+
